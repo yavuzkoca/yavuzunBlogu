@@ -1,0 +1,57 @@
+.post2{
+	width:100%;
+	background-color:#EFFBF5;
+	padding:10px;
+	font-family:arial;
+	color:#fff;
+	padding:140px;
+	background-image:url(https://s-media-cache-ak0.pinimg.com/564x/87/2a/c3/872ac3662a4781fe0a0f9eb3829d2dc7.jpg);
+	
+}	
+.post2 a{
+	color:#f00;
+	
+}
+.post2 a:hover{
+	color:#cf0;
+}
+a:hover{
+	color:#328332;
+}
+.lol li:hover {
+	color:#f00;
+}
+h1:hover{
+	color:#00b100;
+	
+}
+.grey-box{
+	background-color:black;
+	border:1px solid red;
+	width:100%;
+	margin-bottom:150px;
+	margin-top:-100px;
+	margin-left:120px;
+	margin-right:100px;
+	font-size:30px;
+	text-align:center-left;
+	padding:20px;
+}
+.grey-box ul {
+	list-style:none;
+}
+.bbaslik{
+	color:red;
+}
+
+.kod{
+	float:left;
+	font-size:20px;
+	margin-top:10px;
+	color:#cf0;
+}
+.egitimler{
+	border:1px solid red;
+	margin-top: -20px;
+}
+
